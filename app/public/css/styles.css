@@ -1,0 +1,28 @@
+body {
+    background-color: darkolivegreen;
+}
+h1 {
+    color: pink;
+
+  
+    
+}
+h2 {
+    color: pink;
+}
+.home{
+    float: right;
+    font-size: 25px;
+    text-decoration-line: underline;
+}
+.row {
+    padding: 20px;
+}
+
+.form-group {
+    width: 300px;
+}
+.btn {
+    background-color: pink;
+    border-color: pink;
+}
